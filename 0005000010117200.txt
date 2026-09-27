@@ -1,0 +1,8 @@
+[Full Equipment Box in Port Tanzia - MH3U EUR v32 - by jM5557]
+*cemu_enabled
+02799648 38A00000
+
+[Many Zenny (999,999z) - MH3U EUR v32 - by jM5557]
+D3000000 2E000000
+0062CBD8 000F423F
+
