@@ -14,3 +14,5 @@ Note: Always make a backup copy of your save data before enabling new or unteste
 - Many Zenny (999,999z): Cheat - Changes your Zenny amount to 999,999. For any other amount change `000F423F` in the cheat code to a numeric decimal value converted to hexadecimal.
 
 - Hold "A" to Carve/Mine/Gather: QOL Improvement - Hold the "A" button when carving or gathering the same as in modern MH titles
+
+- Smooth vertical camera (underwater-style): QOL Improvement - Tilting the camera on land vertically up or down is now smooth instead of limited (adapted from the underwater camera controls) 
