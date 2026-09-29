@@ -178,7 +178,7 @@
 01BFE3A8 4E800020
 0228982C 4B974AD5
 
-[QOL - Skip quest-end wait - DISABLE - MH3U EUR v32 - by jM5557]
+[QOL - Skip Quest End Timer (Hold X+Y) - DISABLE - MH3U EUR v32 - by jM5557]
 0228982C 83190690
 
 [QOL - Hold A to Carve/Gather ONLY - MH3U EUR v32 - by jM5557]
