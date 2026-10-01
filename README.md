@@ -24,6 +24,8 @@ Note: Quality of Life (QOL) improvements named below are already enabled by defa
 
 - Skip Quest End Timer (Hold X+Y) - Allows you to skip the end of quest timer (usually 1 minute) after clearing a quest (similar to Monster Hunter Wilds). Skipping takes you to the rewards screen quicker. Press and hold the X and Y buttons together for roughly ~1 second to activate.
 
+- Send All Rewards To Item Box (Hold X+Y) - Allows you to send all rewards to item box by holding X and Y (similar to new games that have that as an option).
+
 # Experimental
 - Free camera in towns - Moga Village and Port Tanzia hubs use the in-hunt camera with full controls (rotate, tilt).
 
