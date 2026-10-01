@@ -26,6 +26,8 @@ Note: Quality of Life (QOL) improvements named below are already enabled by defa
 
 - Send All Rewards To Item Box (Hold X+Y) - Allows you to send all rewards to item box by holding X and Y (similar to new games that have that as an option).
 
+- Extend Knockback Time - When you are knocked back (hit or sent flying and lie flat on the ground), you can now remain on the ground longer increasing your invulnerability period. To get up faster either move the analog stick or tap any of the X,Y,A,B buttons. This is an adaptation of the same feature present in all newer Monster Hunter games, first introduced in Monster Hunter 4.
+
 # Experimental
 - Free camera in towns - Moga Village and Port Tanzia hubs use the in-hunt camera with full controls (rotate, tilt).
 
