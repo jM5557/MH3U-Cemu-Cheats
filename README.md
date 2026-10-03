@@ -28,7 +28,7 @@ Note: Quality of Life (QOL) improvements named below are already enabled by defa
 
 - Extend Knockback Time - When you are knocked back (hit or sent flying and lie flat on the ground), you can now remain on the ground longer increasing your invulnerability period. To get up faster either move the analog stick or tap any of the X,Y,A,B buttons. This is an adaptation of the same feature present in all newer Monster Hunter games, first introduced in Monster Hunter 4.
 
-- Whetstone Sharpening Cancel - When you press B while sharpening, your hunter will crouch cancelling out the sharpening animation. Similar to how sharpening works in newer titles (Monster Hunter World onwards)
+- Whetstone Sharpening Cancel - When you press B while sharpening, your hunter will roll, cancelling out the sharpening animation. Similar to how sharpening works in newer titles (Monster Hunter World onwards)
 
 - Interruptable Flex - When you drink a consumable (Potion, Ration ... etc.) you can now skip the flex animation by simply moving, rolling, or performing other actions. The consumable will not be interrupted. Otherwise if you stand still the flex animation will play in full.  
 
