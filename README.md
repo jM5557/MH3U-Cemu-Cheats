@@ -30,7 +30,9 @@ Note: Quality of Life (QOL) improvements named below are already enabled by defa
 
 - Whetstone Sharpening Cancel - When you press B while sharpening, your hunter will roll, cancelling out the sharpening animation. Similar to how sharpening works in newer titles (Monster Hunter World onwards)
 
-- Interruptable Flex - When you drink a consumable (Potion, Ration ... etc.) you can now skip the flex animation by simply moving, rolling, or performing other actions. The consumable will not be interrupted. Otherwise if you stand still the flex animation will play in full.  
+- Interruptable Flex - When you drink a consumable (Potion, Ration ... etc.) you can now skip the flex animation by simply moving, rolling, or performing other actions. The consumable will not be interrupted. Otherwise if you stand still the flex animation will play in full.
+
+- No Time Limit on Rewards Screen - The rewards screen no longer has a countdown timer causing you to lose your rewards.
 
 # Experimental
 - Free camera in towns - Moga Village and Port Tanzia hubs use the in-hunt camera with full controls (rotate, tilt).
