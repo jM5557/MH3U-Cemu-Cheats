@@ -550,6 +550,18 @@
 [QOL - Interruptable Flex - DISABLE - MH3U EUR v32 - by jM5557]
 028A35C4 9BBC0459
 
+[QOL - No Time Limit on Rewards Screen - MH3U EUR v32 - by jM5557]
+{The quest reward screen's countdown stops, so you can take your time picking rewards. Leave with the normal button when you are done.}
+*cemu_enabled
+02180824 FD806090
+02181FAC 38080000
+02182EE4 380A0000
+
+[QOL - No Time Limit on Rewards Screen - DISABLE - MH3U EUR v32 - by jM5557]
+02180824 ED8C6828
+02181FAC 3808FFFF
+02182EE4 380AFFFF
+
 [QOL - Extend Knockback Time (Medium Hits Incl.) - MH3U EUR v32 - by jM5557]
 {Extends the player's knockback invulnerability period after a large or medium hit or explosion (player is left laying face up, down, or on their knee). Move the left stick or press A/B/X/Y to get back up. Extra time is the first line (00000078 = 120 frames = 4s at 30 fps).}
 01BFF5F4 00000078
