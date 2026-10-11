@@ -1,8 +1,11 @@
+**AI Disclaimer**: Claude.ai was utilized to investigate game data and generate cheat codes/exefs IPS. The process for creating cheats has been a trial and error with multiple iterations of in-game testing and refinements to obtain a workable final result. The intention behind this is to give players Quality of Life improvements to ideally make the game more enjoyable and in-line with modern Monster Hunter titles (post-MHWorld). Testing was performed on Steam Deck, SteamOS, and on a Retroid Pocket Nova.
+
+Note: Always make a backup copy of your save data before enabling new or untested cheats! Cheats labeled "Experimental" are not intended for actual/regular gameplay. Proceed with CAUTION.
+
+# Requirements
 Cheats can be added and enabled on the following custom Cemu build (REQUIRED): 
 - PC (Linux/SteamOS/Windows): https://github.com/jM5557/Cemu-Enhanced
 - Android: https://github.com/jM5557/Cemu-Android-MH3U-Revival
-
-Note: Always make a backup copy of your save data before enabling new or untested cheats! Cheats labeled "Experimental" are not intended for actual/regular gameplay. Proceed with CAUTION.
 
 # Compatibility
 - Monster Hunter 3 Ultimate v32 EUR (Title ID: 0005000010117200)
